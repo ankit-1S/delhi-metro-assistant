@@ -1,0 +1,283 @@
+Shaheed Sthal \n red \n 1
+Hindon River \n red \n 2
+Arthala \n red \n 3
+Mohan Nagar \n red \n 4
+Shyam park \n red \n 5
+Major Mohit Sharma \n red \n 6
+Raj Bagh \n red \n 7
+Shaheed Nagar \n red \n 8
+Dilshad Garden \n red \n 9
+Jhil Mil \n red \n 10
+Mansarovar Park \n red \n 11
+Shahdara \n red \n 12
+Welcome \n red \n 13
+Seelampur \n red \n 14
+Shastri Park \n red \n 15
+Kashmere Gate \n red \n 16
+Tis Hazari \n red \n 17
+Pul Bangash \n red \n 18
+Pratap Nagar \n red \n 19
+Shastri Nagar \n red \n 20
+Inderlok \n red \n 21
+Kanhaiya Nagar \n red \n 22
+Keshav Puram \n red \n 23
+Netaji Subash Place \n red \n 24
+Kohat Enclave \n red \n 25
+Pitam Pura \n red \n 26
+Rohini East \n red \n 27
+Rohini West \n red \n 28
+Rithala \n red \n 29
+Samaypur Badli \n yellow \n 1
+Rohini Sector 18-19 \n yellow \n 2
+Haiderpur Badli Mor \n yellow \n 3
+Jahangirpuri \n yellow \n 4
+Adarsh Nagar \n yellow \n 5
+Azadpur \n yellow \n 6
+Model Town \n yellow \n 7
+Guru Tegh Bahadur Nagar \n yellow \n 8
+Vishwavidyalaya \n yellow \n 9
+Vidhan Sabha \n yellow \n 10
+Civil Lines \n yellow \n 11
+Kashmere Gate \n yellow \n 12
+Chandni Chowk \n yellow \n 13
+Chawri Bazar \n yellow \n 14
+New Delhi \n yellow \n 15
+Rajiv Chowk \n yellow \n 16
+Patel Chowk \n yellow \n 17
+Central Secretariat \n yellow \n 18
+Udyog Bhawan \n yellow \n 19
+Lok Kalyan Marg \n yellow \n 20
+Jorbagh \n yellow \n 21
+Dilli Haat INA \n yellow \n 22
+AIIMS \n yellow \n 23
+Green Park \n yellow \n 24
+Hauz Khas \n yellow \n 25
+Malviya Nagar \n yellow \n 26
+Saket \n yellow \n 27
+Qutab Minar \n yellow \n 28
+Chhattarpur \n yellow \n 29
+Sultanpur \n yellow \n 30
+Ghitorni \n yellow \n 31
+Arjan Garh \n yellow \n 32
+Guru Dronacharya \n yellow \n 33
+Sikandarpur \n yellow \n 34
+MG Road \n yellow \n 35
+IFFCO Chowk \n yellow \n 36
+Huda City Centre \n yellow \n 37
+Kashmere Gate \n violet \n 1
+Lal Quila \n violet \n 2
+Jama Masjid \n violet \n 3
+Delhi Gate \n violet \n 4
+ITO \n violet \n 5
+Mandi House \n violet \n 6
+Janpath \n violet \n 7
+Central Secretariat \n violet \n 8
+Khan Market \n violet \n 9
+Jawaharlal Nehru Stadium \n violet \n 10
+Jangpura \n violet \n 11
+Lajpat Nagar \n violet \n 12
+Moolchand \n violet \n 13
+Kailash Colony \n violet \n 14
+Nehru Place \n violet \n 15
+Kalkaji Mandir \n violet \n 16
+Govind Puri \n violet \n 17
+Okhla \n violet \n 18
+Jasola \n violet \n 19
+Sarita Vihar \n violet \n 20
+Mohan Estate \n violet \n 21
+Tughlakabad \n violet \n 22
+Badarpur Border \n violet \n 23
+Sarai \n violet \n 24
+N.H.P.C. Chowk \n violet \n 25
+Mewala Maharajpur \n violet \n 26
+Sector 28 Faridabad \n violet \n 27
+Badkal Mor \n violet \n 28
+Old Faridabad \n violet \n 29
+Neelam Chowk Ajronda \n violet \n 30
+Bata Chowk \n violet \n 31
+Escorts Mujesar \n violet \n 32
+Sant Surdas - Sihi \n violet \n 33
+Raja Nahar Singh \n violet \n 34
+Janak Puri West \n magenta \n 1
+Dabri Mor \n magenta \n 2
+Dashrath Puri \n magenta \n 3
+Palam \n magenta \n 4
+Sadar Bazaar Cantonment \n magenta \n 5
+Terminal 1 IGI Airport \n magenta \n 6
+Shankar Vihar \n magenta \n 7
+Vasant Vihar \n magenta \n 8
+Munirka \n magenta \n 9
+RK Puram \n magenta \n 10
+IIT Delhi \n magenta \n 11
+Hauz Khas \n magenta \n 12
+Panchsheel Park \n magenta \n 13
+Chirag Delhi \n magenta \n 14
+Greater Kailash \n magenta \n 15
+Nehru Enclave \n magenta \n 16
+Kalkaji Mandir \n magenta \n 17
+Okhla NSIC \n magenta \n 18
+Sukhdev Vihar \n magenta \n 19
+JAMIA MILLIA ISLAMIA \n magenta \n 20
+Okhla Vihar \n magenta \n 21
+Jasola Vihar Shaheen Bagh \n magenta \n 22
+Kalindi Kunj \n magenta \n 23
+Okhla Bird Sanctuary \n magenta \n 24
+Botanical Garden \n magenta \n 25
+Majlis Park \n pink \n 1
+Azadpur \n pink \n 2
+Shalimar Bagh \n pink \n 3
+Netaji Subash Place \n pink \n 4
+Shakurpur \n pink \n 5
+Punjabi Bagh West \n pink \n 6
+ESI BASAI DARAPUR \n pink \n 7
+Rajouri Garden \n pink \n 8
+Maya Puri \n pink \n 9
+Naraina Vihar \n pink \n 10
+Delhi Cantt \n pink \n 11
+Durgabai Deshmukh South Campus \n pink \n 12
+Sir Vishweshwaraiah Moti Bagh \n pink \n 13
+Bhikaji Cama Place \n pink \n 14
+Sarojini Nagar \n pink \n 15
+Dilli Haat INA \n pink \n 16
+South Extension \n pink \n 17
+Lajpat Nagar \n pink \n 18
+Vinobapuri \n pink \n 19
+Ashram \n pink \n 20
+Sarai Kale Khan Hazrat Nizamuddin \n pink \n 21
+Mayur Vihar Phase-1 \n pink \n 22
+Mayur Vihar Pocket I \n pink \n 23
+Trilokpuri Sanjay Lake \n pink \n 24
+Vinod Nagar East \n pink \n 25
+Mandawali - West Vinod Nagar \n pink \n 26
+IP Extension \n pink \n 27
+Anand Vihar \n pink \n 28
+Karkar Duma \n pink \n 29
+Karkarduma Court \n pink \n 30
+Krishna Nagar \n pink \n 31
+East Azad Nagar \n pink \n 32
+Welcome \n pink \n 33
+Jaffrabad \n pink \n 34
+Maujpur \n pink \n 35
+Gokulpuri \n pink \n 36
+Johri Enclave \n pink \n 37
+Shiv Vihar \n pink \n 38
+Noida Sector 52 \n aqua \n 1
+Noida sector 51 \n aqua \n 2
+Noida Sector 50 \n aqua \n 3
+Noida Sector 76 \n aqua \n 4
+Noida Sector 101 \n aqua \n 5
+Noida Sector 81 \n aqua \n 6
+NSEZ Noida \n aqua \n 7
+Noida Sector 83 \n aqua \n 8
+Noida Sector 137 \n aqua \n 9
+Noida Sector 142 \n aqua \n 10
+Noida Sector 143 \n aqua \n 11
+Noida Sector 144 \n aqua \n 12
+Noida Sector 145 \n aqua \n 13
+Noida Sector 146 \n aqua \n 14
+Noida Sector 147 \n aqua \n 15
+Noida Sector 148 \n aqua \n 16
+Knowledge Park II \n aqua \n 17
+Pari Chowk Greater Noida \n aqua \n 18
+Alpha 1 Greater Noida \n aqua \n 19
+Delta 1 Greater Noida \n aqua \n 20
+GNIDA Office \n aqua \n 21
+Depot Greater Noida \n aqua \n 22
+Sector 55-66 \n rapid \n 1
+Sector 54 Chowk \n rapid \n 2
+Sector 53-54 \n rapid \n 3
+Sector 42-43 \n rapid \n 4
+DLF Phase 1 \n rapid \n 5
+Sikandarpur \n rapid \n 6
+DLF Phase 2 \n rapid \n 7
+Belvedere Towers \n rapid \n 8
+Cyber City \n rapid \n 9
+Moulsari Avenue \n rapid \n 10
+DLF Phase 3  \n rapid \n 11
+Dwarka Sector 21 \n blue \n 1
+Dwarka Sector 8 \n blue \n 2
+Dwarka Sector 9 \n blue \n 3
+Dwarka Sector 10 \n blue \n 4
+Dwarka Sector 11 \n blue \n 5
+Dwarka Sector 12 \n blue \n 6
+Dwarka Sector 13 \n blue \n 7
+Dwarka Sector 14 \n blue \n 8
+Dwarka \n blue \n 9
+Dwarka Mor \n blue \n 10
+Nawada \n blue \n 11
+Uttam Nagar West \n blue \n 12
+Uttam Nagar East \n blue \n 13
+Janak Puri West \n blue \n 14
+Janak Puri East \n blue \n 15
+Tilak Nagar \n blue \n 16
+Subhash Nagar \n blue \n 17
+Tagore Garden \n blue \n 18
+Rajouri Garden \n blue \n 19
+Ramesh Nagar \n blue \n 20
+Moti Nagar \n blue \n 21
+Kirti Nagar \n blue \n 22
+Shadipur \n blue \n 23
+Patel Nagar \n blue \n 24
+Rajendra Place \n blue \n 25
+Karol Bagh \n blue \n 26
+Jhandewalan \n blue \n 27
+R K Ashram Marg \n blue \n 28
+Rajiv Chowk \n blue \n 29
+Barakhamba \n blue \n 30
+Mandi House \n blue \n 31
+Supreme Court (Pragati Maidan) \n blue \n 32
+Indraprastha \n blue \n 33
+Yamuna Bank \n blue \n 34
+Akshardham \n blue \n 35
+Mayur Vihar Phase-1 \n blue \n 36
+Mayur Vihar Extention \n blue \n 37
+New Ashok Nagar \n blue \n 38
+Noida Sector 15 \n blue \n 39
+Noida Sector 16 \n blue \n 40
+Noida Sector 18 \n blue \n 41
+Botanical Garden \n blue \n 42
+Golf Course \n blue \n 43
+Noida City Center \n blue \n 44
+Noida Sector 34 \n blue \n 45
+Noida Sector 52 \n blue \n 46
+Noida Sector 61 \n blue \n 47
+Noida Sector 59 \n blue \n 48
+Noida Sector 62 \n blue \n 49
+Noida Electronic City \n blue \n 50
+Yamuna Bank \n blue1 \n 1
+Laxmi Nagar \n blue1 \n 2
+Nirman Vihar \n blue1 \n 3
+Preet Vihar \n blue1 \n 4
+Karkar Duma \n blue1 \n 5
+Anand Vihar \n blue1 \n 6
+Kaushambi \n blue1 \n 7
+Vaishali \n blue1 \n 8
+Kirti Nagar \n green \n 1
+Inderlok \n green \n 1
+Satguru Ram Singh Marg \n green \n 2
+Ashok Park Main \n green \n 3
+Punjabi Bagh \n green \n 4
+Shivaji Park \n green \n 5
+Madipur \n green \n 6
+Paschim Vihar (East) \n green \n 7
+Paschim Vihar (West) \n green \n 8
+Peera Garhi \n green \n 9
+Udyog Nagar \n green \n 10
+Maharaja Surajmal Stadium \n green \n 11
+Nangloi \n green \n 12
+Nangloi Railway Station \n green \n 13
+Rajdhani Park \n green \n 14
+Mundka \n green \n 15
+Mundka Industrial Area \n green \n 16
+Ghevra Metro station \n green \n 17
+Tikri Kalan \n green \n 18
+Tikri Border \n green \n 19
+Pandit Shree Ram Sharma \n green \n 20
+Bahdurgarh City \n green \n 21
+Brigadier Hoshiar Singh \n green \n 22
+New Delhi-Airport Express \n airport \n 1 
+Shivaji Stadium \n airport \n 2
+Dhaula Kuan \n airport \n 3
+Delhi Aerocity \n airport \n 4
+IGI Airport \n airport \n 5
+Dwarka Sector 21 \n airport \n 6

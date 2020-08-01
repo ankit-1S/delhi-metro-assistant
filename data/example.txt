@@ -1,0 +1,10 @@
+yellow/
+violet/
+red/
+blue/
+green/
+orange/
+magenta/
+pink/
+aqua/
+blue1/

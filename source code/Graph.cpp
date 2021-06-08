@@ -1,4 +1,4 @@
-#include"headers/Graph.h"
+#include"../headers/Graph.h"
 #include<vector>
 #include<algorithm>
 #include<set>
@@ -8,7 +8,7 @@
 // funtion to read all lines from a text file.
 void load_lines(vector <string> &lines) {
     string line;
-    ifstream myfile("data/example.txt");
+    ifstream myfile("data\\example.txt");
     if (myfile.is_open())
     {
         while (getline(myfile, line))
@@ -30,7 +30,7 @@ void load_lines(vector <string> &lines) {
 
 //function to make hash map of stations with their line.
 void hashes(map<pairstr, int> &result,vector<string>& station_name) {
-    ifstream myfile("data/stations.txt");
+    ifstream myfile("data\\stations.txt");
     if (myfile.is_open())
     {
         string full;
@@ -114,7 +114,7 @@ void line_hash_function(map<int,string>&line_num ,vector<string>&line){
 //Function to make adcancy matrix for the graph 
 void graph_function(vector <vector<int>> &graph) {
     string l;
-    ifstream myfile("data/matrix.txt");
+    ifstream myfile("data\\matrix.txt");
     if (myfile.is_open())
     {  
         int i=0;

@@ -1,4 +1,4 @@
-#include"headers/Graph.h"
+#include"../headers/Graph.h"
 #include"Graph.cpp"
 using namespace std;
 #include<map>
@@ -15,6 +15,7 @@ int main() {
     line_hash_function(line_num,line);
     intersecting_stations_funtion(intersecting_stations,line,m,station_name);
     graph_function(graph);
+
 
 
 
@@ -87,7 +88,6 @@ int main() {
     string line1=line_name(line,m,station1);
     string line2=line_name(line,m,station2);
     // cout<<line1<<" "<<line2<<endl;
-
 
     //for lines to their line number.
     int line_num1=line_num_function(line_num,line1);
